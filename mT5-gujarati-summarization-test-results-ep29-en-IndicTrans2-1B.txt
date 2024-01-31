@@ -1,0 +1,401 @@
+Aggregated ROUGE Scores: {'rouge1': {'precision': 0.05208333333333333, 'recall': 0.04716666666666666, 'fmeasure': 0.048999999999999995}, 'rouge2': {'precision': 0.024166666666666666, 'recall': 0.02125, 'fmeasure': 0.022261904761904764}, 'rougeL': {'precision': 0.05208333333333333, 'recall': 0.04716666666666666, 'fmeasure': 0.048999999999999995}}
+
+Sample No.: 0 Inputs: Type the following sentence using different words: "Delhi superstar Shikhar Dhawan has become the first batsman in IPL history to score two consecutive centuries." Targets: "Delhi superstar Shikhar Dhawan has become the first batsman in IPL history to score two consecutive centuries." Generated: "Delhi superstar Shikhar Dhawan in IPL history Delhi superstar Shikhar Dhawan in IPL history."
+
+Sample No.: 1 Inputs: Rewrite the following sentence in another form: "On this occasion, Sarpanch Rajendrasinh Parmar, Sarpanch Rajendrasinh Barad, Sarpanch Kirit Makwana, Sarpanch Mayursinh Zala, Rajendrasinh Rana, Vijay Desai among others also spoke on this occasion." Targets: "Sarpanch Rajendrasinh Parmar, Sarpanch Rajendrasinh Barad, Sarpanch Kirit Makwana, Sarpanch Mayursinh Zala, Rajendrasinh Rana, Vijay Desai among others also spoke on this occasion." Generated: "Sarpanch Rajendrasinh Parmar, Sarpanch Kirit Makwana, Sarpanch Mayursinh Zala, Rajendrasinh Rana, Vijay Desai among others."
+
+Sample No.: 2 Inputs: Write the following line using different words: "Candidates with એસ.એસ.એલ.સ, PU, ITI, Diploma or any degree can participate in this competition." Targets: "Candidates with એસ.એસ.એલ.સ, PU, ITI, Diploma or any degree can participate in this competition." Generated: "Candidates with એસ.એસ.એલ.સ, PU, Diploma or any degree can participate in this competition."
+
+Sample No.: 3 Inputs: Type the following sentence using different words: "Sushmita Sen was the first woman from India to win the Miss Universe title." Targets: "Sushmita Sen was the first woman from India to win the Miss Universe title." Generated: "Sushmita Sen was the first woman from India to win the Miss Universe title."
+
+Sample No.: 4 Inputs: Rewrite the following sentence differently: "The postmortem report stated death due to injury to the back of the head." Targets: "The postmortem report stated death due to injury to the back of the head." Generated: "Death due to injury to the back of the head."
+
+Sample No: 5 Inputs: Type the following sentence using different words: "You can invest up to Rs 1.50 lakh under Section 80C of the Income Tax Act." Targets: "You can invest up to Rs 1.50 lakh under Section 80C of the Income Tax Act." Generated: "You can invest up to Rs 1.50 lakh under Section 81C of the Act."
+
+Sample No.: 6 Inputs: Write the following sentence using different words: "As soon as the incident was reported, the police team rushed to the spot and took further action." Targets: "The police team rushed to the spot as soon as the incident was reported and took further action." Generated: "The police team rushed to the spot and took further action."
+
+Sample No.: 7 Inputs: Write the following sentence using different words: "India and Pakistan are facing each other for the seventh time in a World Cup." Targets: "Pakistan and India are facing each other for the seventh time in a World Cup." Generated: "India and Pakistan are facing each other for the seventh time in a World Cup."
+
+Sample No.: 8 Inputs: Rewrite the following sentence in another form: "KCR said, he is optimistic that Andhra Pradesh will move forward under Y-Jagan's leadership." Targets: "He is optimistic that Andhra Pradesh will move forward under Y-Jagan's leadership, KCR said." Generated: "Andhra Pradesh will move forward under Y-Jagan's leadership, KCR said."
+
+Sample No.: 9 Inputs: Write the following sentence using different words: "Second list of Lok Sabha candidates announced: Parth Pawar, Amol Kolhe in the list" Targets: "Parth Pawar, Amol Kolhe in the list: Second list of Lok Sabha candidates announced" Generated: "Second list of Lok Sabha candidates announced: Parth Pawar, Amol Kolhe in the list"
+
+Sample No.: 10 Inputs: Rewrite the following sentence in another form: "Newly married Soumya Sekhar Sahu and his grandmother were killed in this blast while his bride Reema was seriously injured." Targets: "Newly married Soumya Sekhar Sahu and his grandmother were killed in this blast while his bride Reema was seriously injured." Generated: "His bride Reema was seriously injured while her grandmother died."
+
+Sample No.: 11 Inputs: Rewrite the following sentence in another form: "Rajinikanth has acted not only in Tamil, but also in Kannada, Telugu, and Hindi films." Targets: "Rajinikanth has acted in Kannada, Telugu, and Hindi films in addition to Tamil." Generated: "Not only in Tamil, but also in Kannada, Telugu, and Hindi films."
+
+Sample No.: 12 Inputs: Write the following sentence using different words: "The bus skidded off the road as the driver lost control of the steering." Targets: "The bus skidded off the road as the driver lost control of the steering." Generated: "The bus skidded off the road as the driver lost control of the steering."
+
+Sample No.: 13 Inputs: Rewrite the following sentence differently: "Cases were filed against Saeed in Lahore and Gujranwala cities on the application of Counter Terrorism Department of Punjab Police." Targets: "Cases were filed against Saeed in Lahore and Gujranwala cities on the application of Counter Terrorism Department of Punjab Police." Generated: "Cases were filed against Saeed in Lahore and Gujranwala cities."
+
+Sample No.: 14 Inputs: Write the following sentence using different words: "Hardeep Singh Palaha, Parminder Singh, Amarjot Singh, Sajid Gupta, Jugraj Singh, Sherry Gupta and others participated in this protest." Targets: "Hardeep Singh Palaha, Parminder Singh, Amarjot Singh, Sajid Gupta, Jugraj Singh, Sherry Gupta and others participated in this protest." Generated: "Hardeep Singh Palaha, Parminder Singh, Parminder Singh, Jugraj Singh, Sherry Gupta and others participated in this protest."
+
+Sample No.: 15 Inputs: Rewrite the following sentence differently: "The film will also feature Amitabh Bachchan, Alia Bhatt and Ranbir Kapoor in the lead roles." Targets: "Amitabh Bachchan, Alia Bhatt and Ranbir Kapoor will also be seen in the lead roles in this film." Generated: "Anubhav Bachchan, Alia Bhatt and Ranbir Kapoor will also be seen in the lead roles in this film."
+
+Sample No.: 16 Inputs: Type the following sentence using different words: "Nandia is a village in Junagadh taluka of Junagadh district in Gujarat state in western India." Targets: "Nandia is a village in Junagadh taluka of Junagadh district in Gujarat state in western India." Generated: "Village in Junagadh taluka of Junagadh district in Gujarat state."
+
+Sample No.: 17 Inputs: Rewrite the following sentence differently: "There was a scuffle between lawyers and police at Tis Hazari Court, Delhi." Targets: "There was a scuffle between lawyers and police at Tis Hazari Court, Delhi." Generated: "There was a scuffle between lawyers and police at Tis Hazari Court, Delhi."
+
+Sample No.: 18 Inputs: Rewrite the following sentence differently: "After applying, take a printout of it and send it along with the following documents to the following address." Targets: "After applying, take a printout of it and send it along with the following documents to the following address." Generated: "Take a printout of it and send it to the following address."
+
+Sample No.: 19 Inputs: Type the following sentence using different words: "A money laundering case was filed following alleged irregularities in the purchase of 12 VVIP helicopters from Italy-based Finmeccanica's British subsidiary AgustaWestland." Targets: "A money laundering case was filed following alleged irregularities in the purchase of 12 VVIP helicopters from Italy-based Finmeccanica's British subsidiary AgustaWestland." Generated: "A story in the purchase of 12 VVIP helicopters from Italy-based Finmeccanica's British subsidiary AgustaWestland."
+
+Sample No.: 20 Inputs: Rewrite the following sentence in another form: "The BJP government is delaying the formation of the Cauvery Water Management Board because of the Karnataka Assembly elections." Targets: "The BJP government is delaying the formation of the Cauvery Water Management Board because of the Karnataka Assembly elections." Generated: "The BJP government is delaying the formation of the Cauvery Water Management Board because of the Karnataka Assembly elections."
+
+Sample No.: 21 Inputs: Rewrite the following sentence in another form: "Similar notices have been issued in the name of Cayman-based Devi Limited and India-based Adi Enterprises Private Limited." Targets: "Similar notices have been issued in the name of India-based Adi Enterprises Private Limited and Cayman-based Devi Limited." Generated: "Similar notices have been issued in the name of India-based Devi Limited and India-based Adi Enterprises Private Limited."
+
+Sample No.: 22 Inputs: Type the following sentence using different words: "This smartphone works on a Qualcomm Snapdragon 720G processor and users can expand the storage up to 512GB using a microSD card." Targets: "Users can expand the storage up to 512GB using a microSD card. And this smartphone works on a Qualcomm Snapdragon 720G processor." Generated: "This smartphone works on a Qualcomm Snapdragon 720G processor and users can expand the storage up to 512GB using a microSD card."
+
+Sample No.: 23 Inputs: Rewrite the following sentence in another form: "We will soon issue a tender to set up 900 new PUC centres in the state." Targets: "Soon we will issue a tender to set up 900 new PUC centres in the state." Generated: "We will issue a tender to set up 900 new PUC centres in the state soon."
+
+Sample No.: 24 Inputs: Write the following sentence using different words: "Kerala athletes pushed Haryana team players in National Senior School Athletics Meet held at Rohtak." Targets: "Kerala athletes pushed Haryana team players in National Senior School Athletics Meet held at Rohtak." Generated: "Kerala athletes pushed in National Senior School Athletics Meet held at Rohtak."
+
+Sample No.: 25 Inputs: Write the following sentence using different words: "The film has actors like Murli Sharma, Brahmaji, Bhanuchander and Hari Teja in the lead roles." Targets: "Actors like Murli Sharma, Brahmaji, Bhanuchander and Hari Teja are in the lead roles in this film." Generated: "Actors like Murli Sharma, Brahmaji, Bhanuchander and Hari Teja are in the lead roles in this film."
+
+Sample No.: 26 Inputs: Type the following sentence using different words: "This complaint has been filed by BJP MP Subramanian Swamy who has alleged that Rahul Gandhi is a British citizen." Targets: "This complaint has been filed by BJP MP Subramanian Swamy who has alleged that Rahul Gandhi is a British citizen." Generated: "This complaint has been filed by BJP MP Subramanian Swamy who has alleged."
+
+Sample No.: 27 Inputs: Rewrite the following sentence differently: "UDF will win in Manjeswaram, Ernakulam and Konni, while LDF will win in Aroor and Vattiyoorkavu." Targets: "LDF will win in Aroor and Vattiyoorkavu, while UDF will win in Manjeswaram, Ernakulam and Konni." Generated: "LDF will win in Manjeswaram, Ernakulam and Konni while LDF will win in Aroor and Vattiyoorkavu."
+
+Sample No.: 28 Inputs: Type the following sentence using different words: "The meeting was chaired by Congress President Rahul Gandhi and was attended by senior party leaders, including former Prime Minister Manmohan Singh." Targets: "Senior party leaders, including former Prime Minister Manmohan Singh, attended the meeting chaired by Congress President Rahul Gandhi." Generated: "Senior party leaders, including former Prime Minister Manmohan Singh, attended the meeting."
+
+Sample No.: 29 Inputs: Rewrite the following sentence differently: "Police and fire fighters arrived at the scene as soon as the incident was reported." Targets: "Police and fire fighters arrived at the scene as soon as the incident was reported." Generated: "Police and fire fighters arrived at the scene."
+
+Sample No.: 30 Inputs: Rewrite the following sentence in another format: "India and Bangladesh will play a Day-Night Test for the first time." Targets: "Bangladesh and India will play a Day-Night Test for the first time." Generated: "Bangladesh and Bangladesh will play a Day-Night Test for the first time."
+
+Sample No.: 31 Inputs: Rewrite the following sentence differently: "In which one person died at the scene while another person was transported to a local hospital for treatment of serious injuries." Targets: "In which another person was transported to a local hospital for treatment of serious injuries while one person died at the scene." Generated: "Moved to a local hospital while another person died at the scene."
+
+Sample No.: 32 Inputs: Rewrite the following sentence in another form: "Iran launched a missile attack on our forces in Iraq to avenge the killing of General Qassem Soleimani." Targets: "Iran launched a missile attack on our forces in Iraq to avenge the killing of General Qassem Soleimani." Generated: "Iran launched a missile attack on our forces in Iraq to avenge the killing of General Qassem Soleimani."
+
+Sample No.: 33 Inputs: Rewrite the following sentence in another form: "Senior leader Sukhdev Singh Dhindsa, Shiromani Gurdwara Parbandhak Committee President Gobind Singh Longowal and Lehra Mala Parminder Singh Dhindsa were also present on this occasion." Targets: "Senior leader Sukhdev Singh Dhindsa, Shiromani Gurdwara Parbandhak Committee President Gobind Singh Longowal and Lehra Mala Parminder Singh Dhindsa were also present on this occasion." Generated: "Senior leader Sukhdev Singh Dhindsa, Shiromani Gurdwara Parbandhak Committee President Gobind Singh Longowal and Lehra Mala Parminder Singh Dhindsa
+
+Sample No.: 34 Inputs: Rewrite the following sentence in another form: "The BJP, however, denied these allegations and claimed that there was infighting within their party." Targets: "The BJP, however, claimed that there was infighting within their party and denied these allegations." Generated: "However, these allegations were denied and denied."
+
+Sample No: 35 Inputs: Rewrite the following sentence differently: "He said that the state government has implemented many schemes for the welfare of the poor." Targets: "The state government has implemented many schemes for the welfare of the poor, he said." Generated: "The state government has implemented many schemes for the welfare of the poor."
+
+Sample No.: 36 Inputs: Type the following sentence using different words: "Pakistani artists objected to working in the Hindi film industry after the Uri attack." Targets: "Pakistani artists objected to working in the Hindi film industry after the Uri attack." Generated: "Pakistani artists objected to working in the Hindi film industry."
+
+Sample No.: 37 Inputs: Rewrite the following sentence in another form: "Indian cricketer Mohammed Shami was injured in a road accident while travelling from Dehradun to Delhi." Targets: "Indian cricketer Mohammed Shami was injured in a road accident while travelling from Dehradun to Delhi." Generated: "Injured in a road accident while travelling to Delhi."
+
+Sample No.: 38 Inputs: Rewrite the following sentence in another form: "Justice Kalpesh Satyendra Jhaveri has been appointed as the new Chief Justice of Orissa High Court." Targets: "Justice Kalpesh Satyendra Jhaveri has been appointed as the new Chief Justice of Orissa High Court." Generated: "Justice Kalpesh Satyendra Jhaveri has been appointed as the new Chief Justice of Orissa High Court."
+
+Sample No.: 39 Inputs: Rewrite the following sentence differently: "Chief Justice of Madras High Court Indira Banerjee has been made a judge of the Supreme Court." Targets: "Chief Justice of Madras High Court Indira Banerjee has been made a judge of the Supreme Court." Generated: "Chief Justice of Madras High Court Indira Banerjee has been made a judge of the Supreme Court."
+
+Sample No.: 40 Inputs: Rewrite the following sentence in another form: "This action of the police has caused great resentment among the local people." Targets: "This action of the police has caused great resentment among the local people." Generated: "This action of the local people and the police has caused great resentment."
+
+Sample No.: 41 Inputs: Rewrite the following sentence differently: "All political parties are preparing their respective manifestos for the upcoming Lok Sabha elections." Targets: "All political parties are preparing their respective manifestos for the upcoming Lok Sabha elections." Generated: "All political parties are preparing their respective manifestos."
+
+Sample No.: 42 Inputs: Rewrite the following sentence in another form: "Encounter is going on between security forces and terrorists in Budgam, Jammu and Kashmir." Targets: "Encounter is going on between security forces and terrorists in Budgam, Jammu and Kashmir." Generated: "Encounter is going on between security forces and terrorists in Budgam, Jammu and Kashmir."
+
+Sample No.: 43 Inputs: Rewrite the following sentence in another form: "Meanwhile, the police have registered a case in this matter and are conducting further investigation." Targets: "Meanwhile, the police have registered a case in this matter and are conducting further investigation." Generated: "Meanwhile, the police have registered a case in this matter and are conducting further investigation."
+
+Sample No.: 44 Inputs: Rewrite the following sentence differently: "The price of petrol and diesel has decreased due to a decrease in the price of crude oil in the international market." Targets: "The price of petrol and diesel has decreased due to a decrease in the price of crude oil in the international market." Generated: "The price of petrol and petrol has decreased due to a decrease in the price of crude oil in the international market."
+
+Sample No.: 45 Inputs: Type the following sentence using different words: "Pakistan has suspended trade with India following the revocation of Article 370 in Jammu and Kashmir." Targets: "Pakistan has suspended trade with India following the revocation of Article 370 in Jammu and Kashmir." Generated: "Pakistan has suspended trade with India."
+
+Sample No.: 46 Inputs: Rewrite the following sentence differently: "The film will be released in Telugu and dubbed in Malayalam, Tamil, Hindi, Kannada languages." Targets: "The film will be released in Telugu and dubbed in Malayalam, Tamil, Hindi, Kannada languages." Generated: "The film will be dubbed in Malayalam, Tamil, Hindi, Kannada languages and will be released in Telugu."
+
+Sample No.: 47 Inputs: Rewrite the following sentence in another form: "Congress Vice President Rahul Gandhi has once again launched a scathing attack on Prime Minister Narendra Modi." Targets: "Congress Vice President Rahul Gandhi has once again launched a scathing attack on Prime Minister Narendra Modi." Generated: "Congress Vice President Rahul Gandhi has once again launched a scathing attack on Prime Minister Narendra Modi."
+
+Sample No.: 48 Inputs: Type the following sentence using different words: "School principals, teachers, and parents of students attended this event." Targets: "School principals, teachers, and parents of students attended this event." Generated: "School principals, teachers, and parents of students attended this event."
+
+Sample No.: 49 Inputs: Rewrite the following sentence in another form: "It is found in Bangladesh, India, Myanmar, Nepal, and Pakistan." Targets: "It is found in India, Nepal, Bangladesh, Myanmar, and Pakistan." Generated: "It is found in Bangladesh, India, Myanmar, Nepal, and Pakistan."
+
+Sample No.: 50 Inputs: Rewrite the following sentence differently: "The highest rainfall occurred in Marathwada, North Maharashtra, South Maharashtra, and Vidarbha." Targets: "The highest rainfall occurred in Marathwada, North Maharashtra, South Maharashtra, and Vidarbha." Generated: "The highest rainfall occurred in North Maharashtra, South Maharashtra, and Vidarbha."
+
+Sample No.: 51 Inputs: Rewrite the following sentence differently: "Kannada actor Yash rose to fame with director Prashant Neel's film KGF, which shook the nation." Targets: "Kannada actor Yash gained popularity with director Prashant Neel's film KGF, which shook the nation." Generated: "Kannada actor Yash rose to fame with director Prashant Neel's film KGF, which shook the nation."
+
+Sample No.: 52 Inputs: Rewrite the following sentence differently: "Police took possession of the body and sent it to Sayaji Hospital for PM." Targets: "Police took possession of the body and sent it to Sayaji Hospital for PM." Generated: "Police took possession of the body and sent it to Sayaji Hospital for PM."
+
+Sample No.: 53 Inputs: Type the following sentence using different words: "Orange alert has been issued in Thiruvananthapuram, Kollam, Pathanamthitta, Idukki, Kozhikode, and Wayanad districts." Targets: "Orange alert has been issued in Pathanamthitta, Thiruvananthapuram, Kollam, Kozhikode, Idukki, and Wayanad districts." Generated: "Orange alert has been issued in Thiruvananthapuram, Kollam, Pathanamthitta, Idukki, Kozhikode, and Wayanad districts."
+
+Sample No.: 54 Inputs: Rewrite the following sentence in another form: "Manohar Parrikar resigned from the Rajya Sabha after assuming office as Chief Minister of Goa." Targets: "Manohar Parrikar resigned from the Rajya Sabha after assuming office as Chief Minister of Goa." Generated: "Resigned from the Rajya Sabha as Manohar Parrikar resigned from the Rajya Sabha."
+
+Sample No.: 55 Inputs: Rewrite the following sentence differently: "He also has surplus assets in Noida, Bhopal, Pune, Ahmedabad, and Gandhinagar." Targets: "He also has surplus assets in Noida, Bhopal, Pune, Ahmedabad, and Gandhinagar." Generated: "Because of this, he also has surplus assets in Noida, Bhopal, Pune, Ahmedabad, and Gandhinagar."
+
+Sample No.: 56 Inputs: Rewrite the following sentence in another form: "The girl reported this to her parents, who then filed a police complaint." Targets: "The girl reported this to her parents, who then filed a police complaint." Generated: "The girl reported this to the police."
+
+Sample No.: 57 Inputs: Rewrite the following sentence in another form: "After vigilance investigated the complaint, the accused patwari accepted a bribe of Rs 4,000 in the presence of two prosecution witnesses." Targets: "After vigilance investigated the complaint, the accused patwari accepted a bribe of Rs 4,000 while two prosecution witnesses were present." Generated: "The accused patwari accepted a bribe of Rs 4,000 in the presence of two prosecution witnesses."
+
+Sample No.: 58 Inputs: Type the following sentence using different words: "This is Amit Shah's first visit to Assam after becoming Home Minister." Targets: "This is Amit Shah's first visit to Assam after becoming Home Minister." Generated: "This is Amit Shah's first visit to Assam after becoming Home Minister."
+
+Sample No.: 59 Inputs: Rewrite the following sentence in another form: "Nashik region includes five districts - Nashik, Dhule, Jalgaon, Nandurbar, and Ahmednagar." Targets: "Nashik region includes five districts - Nashik, Jalgaon, Dhule, Ahmednagar, and Nandurbar." Generated: "Five districts - Nashik, Dhule, Jalgaon, Nandurbar, and Ahmednagar."
+
+Sample No.: 60 Inputs: Rewrite the following sentence in another form: "Sri Reddy has named actor / director Raghava Lawrence, Srikanth and director R Murugadoss." Targets: "Actor / director Raghava Lawrence, Srikanth and director R Murugadoss have been named by Sri Reddy." Generated: "Actor / director Raghava Lawrence, Srikanth and director R Murugadoss have been named by Sri Reddy."
+
+Sample No.: 61 Inputs: Rewrite the following sentence in another form: "Rumours of Arjun Kapoor and Malaika Arora's affair have been doing the rounds for quite some time." Targets: "Rumours of Arjun Kapoor and Malaika Arora's affair have been doing the rounds for quite some time." Generated: "Rumours of Arjun Kapoor and Malaika Arora's affair have been doing the rounds for quite some time now."
+
+Sample No.: 62 Inputs: Rewrite the following sentence in another form: "Congress President Rahul Gandhi, former Prime Minister Manmohan Singh, and leaders of several opposition parties attended the swearing-in ceremony in Jaipur." Targets: "Congress President Rahul Gandhi, former Prime Minister Manmohan Singh, and leaders of several opposition parties attended the swearing-in ceremony in Jaipur." Generated: "Former Prime Minister Manmohan Singh, former Prime Minister Manmohan Singh, and leaders of several opposition parties attended the swearing-in ceremony in Jaipur."
+
+Sample No.: 63 Inputs: Rewrite the following sentence in another form: "Prime Minister Shri Narendra Modi, Bharatiya Janata Party President Shri Amit Shah and other dignitaries were present on the occasion." Targets: "Prime Minister Shri Narendra Modi, Bharatiya Janata Party President Shri Amit Shah and other dignitaries were present on the occasion." Generated: "Prime Minister Shri Narendra Modi, Bharatiya Janata Party President Shri Amit Shah and other dignitaries were present on the occasion."
+
+Sample No.: 64 Inputs: Rewrite the following sentence in another form: "As soon as the accident was reported, 108 ambulances and locals rushed to the spot and shifted the injured to the hospital for treatment." Targets: "As soon as the accident was reported, 108 ambulances and locals rushed to the spot and shifted the injured to the hospital for treatment." Generated: "As soon as the accident was reported, locals rushed to the spot and shifted the injured to the hospital for treatment."
+
+Sample No.: 65 Inputs: Rewrite the following sentence in another form: "Maharashtra is ruled by BJP and Shiv Sena and currently Chief Minister Devendra Fadnavis is leading the Maharashtra government." Targets: "Maharashtra is currently ruled by BJP and Shiv Sena and Maharashtra government is led by Chief Minister Devendra Fadnavis." Generated: "Currently BJP and Shiv Sena are ruling and Maharashtra is ruled by BJP."
+
+Sample No.: 66 Inputs: Rewrite the following sentence in another form: "He was speaking at an interaction organised by the Pune Union of Working Journalists (PUJO)." Targets: "He was speaking at an interaction organised by the Pune Union of Working Journalists (PUJO)." Generated: "He was speaking at an interaction organised by the Union of Working Journalists (PUJO)."
+
+Sample No.: 67 Inputs: Write the following sentence using different words: "The villagers have demanded immediate assistance to the family of the deceased." Targets: "The villagers have demanded immediate assistance to the family of the deceased." Generated: "The villagers have demanded immediate assistance to the family of the deceased."
+
+Sample No.: 68 Inputs: Rewrite the following sentence differently: "He congratulated Prime Minister Narendra Modi and Bharatiya Janata Party President Amit Shah on winning the elections." Targets: "He congratulated Prime Minister Narendra Modi and Bharatiya Janata Party President Amit Shah on winning the elections." Generated: "He congratulated Prime Minister Narendra Modi and Bharatiya Janata Party President Amit Shah on winning the elections."
+
+Sample No.: 69 Inputs: Rewrite the following sentence differently: "Oriental Bank of Commerce and United Bank of India have been merged into Punjab National Bank (PNB)." Targets: "United Bank of India and Oriental Bank of Commerce have been merged into Punjab National Bank (PNB)." Generated: "United Bank of India and Oriental Bank of India have been merged into Punjab National Bank (PNB)."
+
+Sample No.: 70 Inputs: Write the following sentence using different words: "Prizes were awarded to the winners of various competitions held on the occasion of Women's Day." Targets: "Prizes were awarded to the winners of various competitions which were held on the occasion of Women's Day." Generated: "Prizes were awarded to the winners of various competitions held on the occasion of Women's Day."
+
+Sample No.: 71 Inputs: Rewrite the following sentence in another format: "Selection Process-Candidates will be selected on the basis of their performance in Written Test / Personal Interview." Targets: "Selection Process-Candidates will be selected on the basis of their performance in Written Test / Personal Interview." Generated: "Selection Process-Candidates will be selected on the basis of their performance in Written Test / Personal Interview."
+
+Sample No.: 72 Inputs: Rewrite the following sentence differently: "Educational Qualification - Applicants must have a graduation degree in any discipline from a university recognised by the government." Targets: "Educational Qualification - Applicants must have a graduation degree in any discipline from a university recognised by the government." Generated: "Must have a graduation degree in any discipline from a university recognised by the government."
+
+Sample No.: 73 Inputs: Type the following sentence using different words: "Sikh pilgrims have left for Nankana Sahib in Pakistan from Attari, Punjab to celebrate 550th birth anniversary of Guru Nanak Dev Ji." Targets: "Sikh pilgrims have left for Nankana Sahib in Pakistan from Attari, Punjab to celebrate 550th birth anniversary of Guru Nanak Dev Ji." Generated: "Sikh pilgrims have left for Nankana Sahib in Pakistan."
+
+Sample No.: 74 Inputs: Rewrite the following sentence in another form: "Despite the order of the Supreme Court, the Government of Karnataka refused to release Cauvery river water." Targets: "The Government of Karnataka refused to release Cauvery river water despite the order of the Supreme Court." Generated: "Despite the order of the Supreme Court, the Government of Karnataka refused to release Cauvery river water."
+
+Sample No.: 75 Inputs: Rewrite the following sentence differently: "It is for the high command to decide on the appointment of the KPCC president." Targets: "It is for the high command to decide on the appointment of the KPCC president." Generated: "It is for the high command to decide on the appointment of the KPCC president."
+
+Sample No.: 76 Inputs: Rewrite the following sentence in another form: "Hasin Jahan, wife of Team India fast bowler Mohammed Shami, is once again in the news." Targets: "Hasin Jahan, wife of Team India fast bowler Mohammed Shami, is once again in the news." Generated: "Hasin Jahan, wife of Team India fast bowler Mohammed Shami, is once again in the news."
+
+Sample No.: 77 Inputs: Rewrite the following sentence differently: "Application fee for General / OBC is Rs 1000 while for SC / ST category candidates is Rs 500." Targets: "Application fee for SC / ST category candidates is Rs 500 while for General / OBC candidates is Rs 1000." Generated: "Application fee for SC / ST category candidates is Rs 200 while for SC / ST category candidates is Rs 200."
+
+Sample No.: 78 Inputs: Rewrite the following sentence differently: "The World Health Organization has declared the corona virus a global health emergency." Targets: "The corona virus has been declared a global health emergency by the World Health Organization." Generated: "The corona virus has been declared a global health emergency by the World Health Organization."
+
+Sample No.: 79 Inputs: Rewrite the following sentence differently: "Prime Minister Narendra Modi has asserted that the sacrifice of Indian soldiers will not go in vain." Targets: "Prime Minister Narendra Modi has asserted that the sacrifice of Indian soldiers will not go in vain." Generated: "Prime Minister Narendra Modi has asserted that the sacrifice of Indian soldiers will not go in vain."
+
+Sample No.: 80 Inputs: Rewrite the following sentence differently: "The event was attended by many people including Harisingh, Gurmukh Singh, Vinod Sharma, Krishan Lal Gupta, Shri Sudhir and Des Langeh." Targets: "Many people attended the event including Harisingh, Gurmukh Singh, Vinod Sharma, Krishan Lal Gupta, Shri Sudhir and Des Langeh." Generated: "Many people including Harisingh, Gurmukh Singh, Vinod Sharma, Krishan Lal Gupta, Shri Sudhir and Des Langeh."
+
+Sample No.: 81 Inputs: Rewrite the following sentence differently: "He is survived by his mother, wife, a son, a daughter, and two brothers." Targets: "He is survived by his mother, wife, a son, a daughter, and two brothers." Generated: "He is survived by a son, a daughter, a son, a son, a son, and two brothers."
+
+Sample No.: 82 Inputs: Type the following sentence using different words: "Prime Minister Narendra Modi will attend this summit along with the leaders of other member countries." Targets: "Prime Minister Narendra Modi will attend this summit along with the leaders of other member countries." Generated: "This summit will be attended by Prime Minister Narendra Modi along with the leaders of other member countries."
+
+Sample No.: 83 Inputs: Write the following sentence using different words: "New Delhi: Congress has strongly criticized Prime Minister Narendra Modi for his communal remarks against Rahul Gandhi." Targets: "New Delhi: Congress has strongly criticized Prime Minister Narendra Modi for his communal remarks against Rahul Gandhi." Generated: "New Delhi: Congress has strongly criticized Prime Minister Narendra Modi for his communal remarks."
+
+Sample No.: 84 Inputs: Type the following sentence using different words: "Congress defector Jyotiraditya Scindia has joined Bharatiya Janata Party (BJP)." Targets: "Jyotiraditya Scindia has joined Bharatiya Janata Party (BJP) after defecting from Congress." Generated: "Bharatiya Janata Party (BJP) because Congress defector Jyotiraditya Scindia has joined Bharatiya Janata Party (BJP)."
+
+Sample No.: 85 Inputs: Rewrite the following sentence differently: "Talks are going on between Congress, NCP and Shiv Sena to form the government in the state." Targets: "Talks are going on between NCP, Congress and Shiv Sena to form the government in the state." Generated: "Talks are going on between Congress, NCP and Shiv Sena."
+
+Sample No.: 86 Inputs: Rewrite the following sentence differently: "South India's own lady superstar Nayanthara and her boyfriend director Vignesh Shivan are Kollywood's most talked about couple." Targets: "Her boyfriend director Vignesh Shivan and South India's own lady superstar Nayanthara are Kollywood's most talked about couple." Generated: "South India's own lady superstar Nayanthara and her boyfriend director Vignesh Shivan are Kollywood's most talked about couple."
+
+Sample No.: 87 Inputs: Type the following sentence using different words: "This film is produced by Sravanthi Ravi Kishore and Mani Sharma has composed the film's music." Targets: "Sravanthi Ravi Kishore has produced this film and Mani Sharma has composed the film's music." Generated: "This film is produced by Sravanthi Ravi Kishore and produced by Mani Sharma."
+
+Sample No.: 88 Inputs: Rewrite the following sentence differently: "Bengaluru cities have three Lok Sabha seats - Bengaluru South, Bengaluru North, and Bengaluru Central." Targets: "Bengaluru cities have three Lok Sabha seats - Bengaluru South, Bengaluru North, and Bengaluru Central." Generated: "Bengaluru South, Bengaluru North, and Bengaluru Central."
+
+Sample No.: 89 Inputs: Write the following sentence using different words: "The Supreme Court has delivered its historic verdict on the Ram Janmabhoomi-Babri Masjid dispute in Ayodhya." Targets: "The Supreme Court has delivered its historic verdict on the Ram Janmabhoomi-Babri Masjid dispute in Ayodhya." Generated: "The Supreme Court has delivered a historic verdict in Ayodhya."
+
+Sample No.: 90 Inputs: Rewrite the following sentence in another form: "He said he joined the BJP after being influenced by the ideology of Prime Minister Narendra Modi." Targets: "He said he joined the BJP after being inspired by the ideology of Prime Minister Narendra Modi." Generated: "He said he joined the BJP after being influenced by the ideology of Prime Minister Narendra Modi."
+
+Sample No.: 91 Inputs: Rewrite the following sentence in another form: "Srinath's wife and children were in the house at the time of the incident, but they were not injured." Targets: "Srinath's wife and children were in the house at the time of the incident, but they were not injured." Generated: "Srinath's wife and children were in the house at the time of the incident."
+
+Sample No.: 92 Inputs: Write the following sentence using different words: "He said, CCTV cameras have been installed at all depots and the situation will be monitored." Targets: "CCTV cameras have been installed at all depots and the situation will be monitored, he said." Generated: "He said, CCTV cameras have been installed and the situation will be monitored."
+
+Sample No.: 93 Inputs: Rewrite the following sentence differently: "The test found that it contained 20 times the allowed amount of mercury." Targets: "The test found that it contained 20 times the allowed amount of mercury." Generated: "It contained 21 times the allowed amount of mercury, it contained more than the allowed amount of mercury."
+
+Sample No.: 94 Inputs: Type the following sentence using different words: "Elections are to be held in Madhya Pradesh, Rajasthan, Chhattisgarh, Telangana, and Mizoram." Targets: "Elections are to be held in Chhattisgarh, Rajasthan, Madhya Pradesh, Telangana, and Mizoram." Generated: "Madhya Pradesh elections are to be held in Rajasthan, Chhattisgarh, Telangana, and Mizoram."
+
+Sample No.: 95 Inputs: Write the following sentence using different words: "The incident has been reported and investigated by the local police." Targets: "The incident has been reported and investigated by the local police." Generated: "The incident has been reported and investigated by the local police."
+
+Sample No.: 96 Inputs: Rewrite the following sentence in another form: "Attingal Lok Sabha constituency consists of Varkala, Attingal, Chirayinkeezhu, Nedumangad, Vamanapuram, Aruvikkara and Kattakkada Assembly constituencies." Targets: "Varkala, Attingal, Chirayinkeezhu, Nedumangad, Vamanapuram, Aruvikkara and Kattakkada Assembly constituencies are in Attingal Lok Sabha constituency." Generated: "Varkala, Attingal Lok Sabha constituency consists of Varkala, Attingal, Chirayinkeezhu, Nedumangad, Vamanapuram, Attingal, Attingal, Chirayinkeezhu, Nedumangad, Vamanapuram, Attingal."
+
+Sample No.: 97 Inputs: Rewrite the following sentence differently: "Gopal Shetty contested for BJP from Mumbai North and fought against Bollywood actress Urmila Matondkar for Congress." Targets: "Gopal Shetty contested for BJP from Mumbai North and fought against Bollywood actress Urmila Matondkar for Congress." Generated: "Contested for BJP from Mumbai North and fought against Bollywood actress Urmila Matondkar for Congress."
+
+Sample No.: 98 Inputs: Rewrite the following sentence in another form: "Prime Minister Narendra Modi received Donald Trump at Ahmedabad Airport." Targets: "Donald Trump was received at Ahmedabad Airport by Prime Minister Narendra Modi." Generated: "Donald Trump was received at Ahmedabad Airport by Prime Minister Narendra Modi."
+
+Sample No.: 99 Inputs: Rewrite the following sentence differently: "Strict action will be taken against anyone found guilty." Targets: "Strict action will be taken against anyone found guilty." Generated: "Strict action will be taken against anyone found guilty."
+
+Sample No.: 100 Inputs: Rewrite the following sentence in another form: "The Konkan region includes the districts of Palghar, Thane, Mumbai, Raigad, Ratnagiri, and Sindhudurg." Targets: "The Konkan region includes the districts of Mumbai, Palghar, Ratnagiri, Raigad, Thane, and Sindhudurg." Generated: "The districts of Palghar, Thane, Mumbai, Raigad, Ratnagiri, and Sindhudurg."
+
+Sample No.: 101 Inputs: Rewrite the following sentence in another form: "Nitinbhai Patel. Amit Shah, Mansukh Mandaviya and others were present on this occasion." Targets: "Amit Shah, Nitinbhai Patel. Mansukh Mandaviya and others were present on this occasion." Generated: "Nitinbhai Patel, Amit Shah, Mansukh Mandaviya and others were present."
+
+Sample No.: 102 Inputs: Rewrite the following sentence in another form: "Several fire engines have reached the spot and efforts are on to control the fire." Targets: "Several fire engines have reached the spot and efforts are on to control the fire." Generated: "Several fire engines have reached the spot on the fire and efforts are on to control the fire."
+
+Sample No.: 103 Inputs: Type the following sentence using different words: "The car hit a tree on the road as the driver lost control of the steering." Targets: "The car hit a tree on the road as the driver lost control of the steering." Generated: "The car hit a tree on the road as the driver lost control of the steering."
+
+Sample No.: 104 Inputs: Rewrite the following sentence in another form: "The police have booked him under the Narcotics Act." Targets: "His police have booked him under the Narcotics Act." Generated: "He has been booked by the police under the Narcotics Act."
+
+Sample No.: 105 Inputs: Rewrite the following sentence differently: "New Delhi: There was a long-standing discussion to make Rahul Gandhi the Congress President." Targets: "New Delhi: There was a long-standing discussion to make Rahul Gandhi the Congress President." Generated: "New Delhi: There was a long-standing discussion to make Rahul Gandhi the Congress President."
+
+Sample No.: 106 Inputs: Rewrite the following sentence in another form: "Bharat also stars Sunil Grover, Disha Patani, Tabu and Jackie Shroff apart from Salman and Katrina." Targets: "Bharat also stars Disha Patani, Tabu, Sunil Grover and Jackie Shroff apart from Salman and Katrina." Generated: "Sunil Grover, Disha Patani, Tabu and Jackie Shroff also star in Bharat."
+
+Sample No.: 107 Inputs: Rewrite the following sentence in another form: "On this occasion Omkar Singh, Devinder Kumar, Narinder Singh, Ganesh Paul, Veer Singh, Gopal Singh, Mohan Lal and Inderjit among others were present." Targets: "Omkar Singh, Devinder Kumar, Narinder Singh, Ganesh Paul, Veer Singh, Gopal Singh, Mohan Lal and Inderjit among others were present on this occasion." Generated: "Omkar Singh, Devinder Kumar, Narinder Kumar, Ganesh Paul, Veer Singh, Mohan Lal and Inderjit among others were present."
+
+Sample No.: 108 Inputs: Rewrite the following sentence differently: "Local residents reported this several times, but no action was taken by the system." Targets: "Local residents reported this several times, but no action was taken by the system." Generated: "Local residents reported this several times."
+
+Sample No.: 109 Inputs: Rewrite the following sentence differently: "The case was being heard in the court of Special Judge Bhubaneswar." Targets: "The case was being heard in the court of Special Judge Bhubaneswar." Generated: "The case was being heard in the court of Special Judge Bhubaneswar."
+
+Sample No.: 110 Inputs: Write the following sentence using different words: "This song titled 'Samajavaragamana' is sung by Sid Sriram while music is given to you." Targets: "This song titled 'Samajavaragamana' is sung by Sid Sriram while music is given to you." Generated: "This song is sung by Sid Sriram while music is given to you."
+
+Sample No.: 111 Inputs: Write the following sentence using different words: "As soon as the incident was reported, the fire brigade personnel rushed to the spot and doused the fire with water." Targets: "As soon as the incident was reported, the fire brigade personnel rushed to the spot and doused the fire with water." Generated: "The fire brigade personnel rushed to the spot and doused the fire with water."
+
+Sample No.: 112 Inputs: Write the following sentence using different words: "Health Minister KK Shailaja said there is no need to worry about the health of the people admitted in the hospital." Targets: "Health Minister KK Shailaja said there is no need to worry about the health of the people admitted in the hospital." Generated: "There is no need to worry about the health of the people admitted in the hospital."
+
+Sample No.: 113 Inputs: Type the following sentence using different words: "Dhanush is currently celebrating the success of the film Asuran directed by Vetri Maaran." Targets: "Dhanush is currently celebrating the success of the film Asuran directed by Vetri Maaran." Generated: "Dhanush is celebrating the success of the film Asuran directed by Vetri Maaran."
+
+Sample No.: 114 Inputs: Rewrite the following sentence differently: "This led to a clash between BJP and JDS workers." Targets: "This led to a clash between JDS and BJP workers." Generated: "There was a clash between BJP and BJP workers."
+
+Sample No.: 115 Inputs: Write the following sentence using different words: "Later police and fire brigade team reached the spot." Targets: "Later police and fire brigade team reached the spot where the incident took place." Generated: "Later fire brigade team reached the spot."
+
+Sample No.: 116 Inputs: Rewrite the following sentence differently: "Police have registered a case in this regard and are investigating further." Targets: "Police have registered a case in this regard and are investigating further." Generated: "Police have registered a case in this regard and are investigating further."
+
+Sample No.: 117 Inputs: Rewrite the following sentence in another form: "Yamaha has not yet announced plans to launch the 2021 M-09 in the Indian market" Targets: "Yamaha has not yet announced plans to launch the 2021 M-09 in the Indian market" Generated: "Yamaha has not announced plans to launch the 2021 M-09 in the Indian market"
+
+Sample No.: 118 Inputs: Rewrite the following sentence differently: "Mumbai: Actors Alia Bhatt and Varun Dhawan are shooting for their upcoming film 'Badrinath Ki Dulhania' in Singapore." Targets: "Mumbai: Varun Dhawan and actress Alia Bhatt are shooting for their upcoming film 'Badrinath Ki Dulhania' in Singapore." Generated: "Mumbai: Varun Dhawan and Varun Dhawan are shooting for their upcoming film 'Badrinath Ki Dulhania' in Singapore."
+
+Sample No.: 119 Inputs: Rewrite the following sentence in another form: "As soon as the incident was reported, the police rushed to the spot and sent the bodies to the civil hospital for postmortem." Targets: "The police rushed to the spot as soon as they were informed of the incident and sent the bodies to the civil hospital for postmortem." Generated: "The police rushed to the spot as soon as they were informed of the incident and sent the bodies to the civil hospital for postmortem."
+
+Sample No.: 120 Inputs: Rewrite the following sentence differently: "The exact cause of death was not known at the time this report was written." Targets: "The exact cause of death was not known at the time this report was written." Generated: "The exact cause of death was not known at the time this report was written."
+
+Sample No.: 121 Inputs: Rewrite the following sentence in another form: "Congress, CPI (M) and BJP did not come." Targets: "BJP, CPI (M) and Congress did not come." Generated: "CPI (M) and Congress, CPI (M) and BJP did not come."
+
+Sample No.: 122 Inputs: Rewrite the following sentence differently: "His rise in the world of entertainment inspires many and he leaves behind some memorable performances." Targets: "He leaves behind some memorable performances in the world of entertainment and his rise inspires many." Generated: "His rise in the world of folk entertainment inspires many and he leaves behind some memorable performances."
+
+Sample No.: 123 Inputs: Rewrite the following sentence differently: "In this regard, the city police station has registered a case against unknown persons and is conducting further investigation." Targets: "The city police station has registered a case against unknown persons and is conducting further investigation." Generated: "The city police station has registered a case against unknown persons and is conducting further investigation."
+
+Sample No.: 124 Inputs: Rewrite the following sentence differently: "Meanwhile, the police signaled the car driver to stop, but the car driver saw the police and tried to flee." Targets: "Meanwhile, the police signaled the car driver to stop, but upon seeing the police, the car driver tried to flee." Generated: "Meanwhile, the police signaled the car driver to stop, but upon seeing the police, signaled the car and tried to flee."
+
+Sample No.: 125 Inputs: Rewrite the following sentence in another form: "The Indian Air Force conducted airstrikes on a Jaish-e-Mohammed training camp in the Balakot area of Pakistan." Targets: "The Indian Air Force conducted airstrikes on a Jaish-e-Mohammed training camp in the Balakot area of Pakistan." Generated: "The Indian Air Force conducted airstrikes on a Jaish-e-Mohammed training camp in the Balakot area of Pakistan."
+
+Sample No.: 126 Inputs: Rewrite the following sentence in another form: "Shri Madan Mohan Mittal, Minister of Industry and Commerce, Technical Education and Industrial Training will be the Chief Guest on this occasion." Targets: "Shri Madan Mohan Mittal, Minister of Industry and Commerce, Technical Education and Industrial Training will be the Chief Guest on this occasion." Generated: "Shri Madan Mohan Mittal, Minister of Industry and Commerce will grace the occasion."
+
+Sample No.: 127 Inputs: Rewrite the following sentence differently: "This category includes Assistant Commissioners, Additional Assistant Commissioners / IPS officers, Tehsildars / Revenue Officers, and other departments." Targets: "This category includes Assistant Commissioners, Additional Assistant Commissioners / IPS officers, Tehsildars / Revenue Officers, and other departments." Generated: "This category includes Additional Assistant Commissioners, Additional Assistant Commissioners, Tehsildars / Revenue Officers, and other departments."
+
+Sample No.: 128 Inputs: Type the following sentence using different words: "Singh is contesting against Malegaon blast accused Pragya Singh Thakur." Targets: "Singh is contesting against Pragya Singh Thakur, an accused in Malegaon blast." Generated: "Accused Pragya Singh is contesting against Thakur."
+
+Sample No.: 129 Inputs: Rewrite the following sentence differently: "The deceased is survived by his wife, mother, three brothers, and four sisters." Targets: "The deceased is survived by his mother, wife, four sisters, and three brothers." Generated: "The deceased is survived by his wife, mother, three brothers, and three sisters."
+
+Sample No.: 130 Inputs: Type the following sentence using different words: "Kareena Kapoor Khan is an Indian actress who works in Hindi films." Targets: "Indian actress Kareena Kapoor Khan works in Hindi films." Generated: "Indian actress who works is Kareena Kapoor Khan."
+
+Sample No.: 131 Inputs: Rewrite the following sentence in another form: "Aadhaar card has become an important document for every Indian citizen in today's time." Targets: "Aadhaar card has become an important document for every Indian citizen in today's time." Generated: "Aadhaar card has become an important document for every Indian citizen."
+
+Sample No.: 132 Inputs: Rewrite the following sentence in another form: "Kozhikode: Bharatiya Janata Party spokesperson B. Gopalakrishnan said people who threaten Hindus will have to go to Pakistan." Targets: "Kozhikode: Bharatiya Janata Party spokesperson B. Gopalakrishnan said people who threaten Hindus will have to go to Pakistan." Generated: "Bharatiya Janata Party spokesperson B. Gopalakrishnan said Pakistan will have to go."
+
+Sample No.: 133 Inputs: Type the following sentence using different words: "It is followed by New Zealand, South Africa, England, and Australia." Targets: "It is followed by New Zealand, South Africa, England, and Australia." Generated: "It is followed by New Zealand, South Africa, England, and Australia."
+
+Sample No.: 134 Inputs: Type the following sentence using different words: "A picture of him was shared by Dhoni's wife Sakhi on her Instagram account." Targets: "A picture of him was shared by Dhoni's wife Sakhi on her Instagram account." Generated: "A picture of him was shared by Dhoni's wife Sakhi on her Instagram account."
+
+Sample No.: 135 Inputs: Type the following sentence using different words: "Each phone number has a unique code known as the International Mobile Equipment Identity (IMEI)." Targets: "Each phone number has a unique code known as the International Mobile Equipment Identity (IMEI)." Generated: "Each phone number has a unique code known as the International Mobile Equipment Identity (IMEI)."
+
+Sample No.: 136 Inputs: Write the following sentence using different words: "Other members of the bench included Justices N V Ramana, D Chandrachud, Deepak Gupta and Sanjiv Khanna." Targets: "Other members of the bench included Justices N V Ramana, D Chandrachud, Deepak Gupta and Sanjiv Khanna." Generated: "Justice N V Ramana, Deepak Gupta and Sanjiv Khanna."
+
+Sample No.: 137 Inputs: Write the following sentence using different words: "In the 24 cases registered in this regard, the main accused Suresh was initially absconding." Targets: "In the 24 cases registered in this regard initially, the main accused Suresh was absconding." Generated: "In the 24 cases registered in this regard, the main accused Suresh was initially absconding."
+
+Sample No.: 138 Inputs: Rewrite the following sentence differently: "Police said the incident will be investigated and action will be taken against the guilty." Targets: "Police said they will investigate the incident and action will be taken against the guilty." Generated: "Action will be taken against the guilty and police said."
+
+Sample No.: 139 Inputs: Rewrite the following sentence in another form: "It stars Vijay Sethupathi, Fahadh Faasil, Samantha Akkineni and Ramya Krishnan in lead roles." Targets: "It stars Vijay Sethupathi, Fahadh Faasil, Samantha Akkineni and Ramya Krishnan in lead roles." Generated: "It stars Vijay Sethupathi, Fahadh Faasil, Samantha Akkineni and Ramya Krishnan in lead roles."
+
+Sample No.: 140 Inputs: Rewrite the following sentence differently: "Giriraj Singh of BJP, Kanhaiya Kumar of CPI and Tanveer Hassan of RJD are contesting from this seat." Targets: "Giriraj Singh of BJP, Kanhaiya Kumar of CPI and Tanveer Hassan of RJD are contesting from this seat." Generated: "Giriraj Singh of BJP, Kanhaiya Kumar of CPI and Tanveer Hassan of RJD are contesting."
+
+Sample No.: 141 Inputs: Write the following sentence using different words: "She is very active on social media and often shares her pictures and videos on Instagram." Targets: "She is very active on social media and often shares her pictures and videos on Instagram." Generated: "She is very active on social media and often shares her pictures."
+
+Sample No.: 142 Inputs: Rewrite the following sentence differently: "However, this did not stop Rahul Gandhi from attacking Modi." Targets: "However, this did not stop Rahul Gandhi from attacking Modi." Generated: "However, Rahul Gandhi did not stop attacking Modi."
+
+Sample No.: 143 Inputs: Rewrite the following sentence differently: "Sreeramulu said, Shivalli died due to harassment by JDS-Congress coalition government." Targets: "Sreeramulu said, Shivalli died due to harassment by JDS-Congress coalition government." Generated: "Sreeramulu said, Shivalli died due to harassment by Shivalli."
+
+Sample No.: 144 Inputs: Type the following sentence using different words: "Kareena Kapoor Khan is very active on social media these days and often shares her pictures." Targets: "Kareena Kapoor Khan is very active on social media these days and often shares her pictures." Generated: "These days social media is very active and Kareena Kapoor Khan is very active."
+
+Sample No.: 145 Inputs: Rewrite the following sentence in another form: "The first Olympic Games were held in Latin America, starting on Friday in Rio de Janeiro." Targets: "The first Olympic Games were held in Latin America, starting on Friday in Rio de Janeiro." Generated: "The first Olympic Games were held on Friday, starting on Friday in Rio de Janeiro."
+
+Sample No.: 146 Inputs: Rewrite the following sentence in another form: "The party was also attended by several well-known political leaders, including former Rajasthan Chief Minister Vasundhara Raje and her son Dushyant Singh." Targets: "Several well-known political leaders, including former Rajasthan Chief Minister Vasundhara Raje and her son Dushyant Singh, also attended the party." Generated: "Several well-known political leaders, including former Rajasthan Chief Minister Vasundhara Raje and her son Dushyant Singh, also attended the party." Yes.
+
+Sample No.: 147 Inputs: Rewrite the following sentence in another form: "He has been booked under the provisions of the Maharashtra Prevention of Gambling Act." Targets: "He has been booked under the provisions of the Maharashtra Prevention of Gambling Act." Generated: "This case has been booked under the provisions of the Maharashtra Prevention of Gambling Act."
+
+Sample No.: 148 Inputs: Rewrite the following sentence in another form: "Police reached the spot after being informed of the incident and have registered a case and are investigating further." Targets: "Police reached the spot after being informed of the incident and have registered a case and are investigating further." Generated: "Police reached the spot after being informed of the incident and have registered a case and are investigating further."
+
+Sample No.: 149 Inputs: Rewrite the following sentence in another form: "The event will be attended by Chief Minister Devendra Fadnavis and Shiv Sena President Uddhav Thackeray." Targets: "Chief Minister Devendra Fadnavis and Shiv Sena President Uddhav Thackeray will attend the event." Generated: "Chief Minister Devendra Fadnavis and Shiv Sena President Uddhav Thackeray will attend the event."
+
+Sample No.: 150 Inputs: Write the following sentence using different words: "India's fast bowler Jasprit Bumrah has achieved the third position in the bowler rankings." Targets: "Jasprit Bumrah, who is India's fastest bowler, has achieved the third position in the bowler rankings." Generated: "Bumrah has achieved the third position in the bowler rankings."
+
+Sample No.: 151 Inputs: Rewrite the following sentence differently: "The bill is expected to be passed in the Rajya Sabha in the next session." Targets: "The bill is expected to be passed in the Rajya Sabha in the next session." Generated: "The bill is expected to be passed in the Rajya Sabha."
+
+Sample No.: 152 Inputs: Rewrite the following sentence in another form: "There is a judgment of the Supreme Court that reservations should not exceed 50 percent." Targets: "There is a judgment of the Supreme Court that reservations should not exceed 50 percent." Generated: "There are allegations that reservations should not exceed 50 percent."
+
+Sample No.: 153 Inputs: Type the following sentence using different words: "Iceland has become the first country in the world to implement equal pay for women and men." Targets: "Iceland has become the first country in the world to implement equal pay for women and men." Generated: "Iceland has implemented equal pay for men and women, including equal pay for women and men."
+
+Sample No.: 154 Inputs: Type the following sentence using different words: "This is the first time Amitabh Bachchan and Aamir Khan will be seen together in a film made under the Yash Raj Films banner." Targets: "This is the first time Amitabh Bachchan and Aamir Khan will be seen together in a film made under the Yash Raj Films banner." Generated: "This is the first time Amitabh Bachchan and Aamir Khan will be seen together in a film."
+
+Sample No.: 155 Inputs: Rewrite the following sentence in another form: "The film will be produced by Ramesh P Pillai and Sudhan Pillai under the banner of Abhishek Films." Targets: "The film will be produced by Ramesh P Pillai and Sudhan Pillai under the banner of Abhishek Films." Generated: "The film will be produced by Ramesh P Pillai and Sudhan Pillai."
+
+Sample No.: 156 Inputs: Type the following sentence using different words: "Padra is a town and the headquarters of a taluka in Vadodara district in the state of Gujarat in western India." Targets: "Padra is a taluka headquarters and a town in Vadodara district in the state of Gujarat in western India." Generated: "A town and the headquarters of a taluka in Vadodara district in the state of Gujarat."
+
+Sample No.: 157 Inputs: Rewrite the following sentence in another form: "BJP-Shiv Sena questioned who will form the coalition government after winning the election." Targets: "BJP-Shiv Sena questioned who will form the coalition government after winning the election." Generated: "Who will form the coalition government after BJP-Shiv Sena wins the election."
+
+Sample No.: 158 Inputs: Write the following sentence using different words: "The shooting of Shankar's directorial film 'Indian 2' has resumed." Targets: "The shooting of the film 'Indian 2', which is directed by Shankar, has resumed." Generated: "The shooting of the film 'Indian 2' has started."
+
+Sample No.: 159 Inputs: Rewrite the following sentence in another form: "Congress President Prasad Harichandan and many senior party leaders reached Congress Bhawan." Targets: "Many senior party leaders and Congress President Prasad Harichandan reached Congress Bhawan." Generated: "This led to many senior Congress Party leaders reaching Congress Bhawan."
+
+Sample No.: 160 Inputs: Rewrite the following sentence differently: "After investigating this case, the police filed a charge sheet in court against the accused." Targets: "After investigating this case, the police filed a charge sheet in court against the accused." Generated: "After investigating this case, the police filed a charge sheet in court."
+
+Sample No.: 161 Inputs: Rewrite the following sentence differently: "Heavy to very heavy rainfall likely over south and east Gujarat and Saurashtra during next two days" Targets: "Heavy to very heavy rainfall likely over south and east Gujarat and Saurashtra during next two days" Generated: "Heavy to very heavy rainfall likely over south south Gujarat for next two days"
+
+Sample No.: 162 Inputs: Rewrite the following sentence differently: "Although according to the doctors, the true cause of death will be known only after the postmortem." Targets: "Although according to the doctors, the true cause of death will be known only after the postmortem." Generated: "Although according to the doctors, the true cause of death will be known, they will know the true cause of death only after the postmortem."
+
+Sample No.: 163 Inputs: Rewrite the following sentence in another form: "Iran is the third-largest supplier of crude oil to India, after Saudi Arabia and Iraq." Targets: "Iran is the third-largest supplier of crude oil to India, after Saudi Arabia and Iraq." Generated: "Iran is the third supplier of crude oil to India, after Saudi Arabia and Iraq."
+
+Sample No.: 164 Inputs: Type the following sentence using different words: "The villages of Atalugama in Kalutara District and Akura in Kandy have been declared completely isolated areas." Targets: "The villages of Akura in Kandy and Atalugama in Kalutara District have been declared completely isolated areas." Generated: "The villages of Atalugama in the district and Akura in Kandy have been declared completely isolated areas."
+
+Sample No.: 165 Inputs: Rewrite the following sentence in another form: "Shri Kuldip Singh Chandi, Additional Deputy Commissioner, Development and Shri Gulzar Singh Sandhu, Chief Agriculture Officer were also present." Targets: "Shri Gulzar Singh Sandhu, Chief Agriculture Officer and Shri Kuldip Singh Chandi, Additional Deputy Commissioner, Development were also present." Generated: "Shri Kuldip Singh Chandi, Additional Deputy Commissioner, Development and Shri Gulzar Singh Sandhu, Chief Agriculture Officer."
+
+Sample No.: 166 Inputs: Type the following sentence using different words: "Rani Mukerji will be seen in the role of Mumbai Police officer Shivani Shivaji Roy in this film." Targets: "Rani Mukerji will be seen in the role of Mumbai Police officer Shivani Shivaji Roy in this film." Generated: "Rani Mukerji will be seen in the role of Mumbai Police officer Shivani Shivaji Roy."
+
+Sample No.: 167 Inputs: Rewrite the following sentence differently: "Charges have been framed against Rahul Gandhi under Sections 499 and 500 of the Indian Penal Code." Targets: "Charges have been framed against Rahul Gandhi under Sections 499 and 500 of the Indian Penal Code." Generated: "Charges have been framed under Sections 499 and 500 of the Indian Penal Code."
+
+Sample No.: 168 Inputs: Write the following sentence using different words: "Giving this information, Deputy Commissioner Mr. Arvindpal Singh Sandhu said that all kinds of basic facilities have been provided to the people in these centers." Targets: "Giving this information, Deputy Commissioner Mr. Arvindpal Singh Sandhu said that all kinds of basic facilities have been provided to the people in these centers." Generated: "Deputy Commissioner Mr. Arvindpal Singh Sandhu said that all kinds of basic facilities have been provided to the people.
+
+Sample No.: 169 Inputs: Type the following sentence using different words: "The film stars Vijay Shanthi, Prakash Raj, Naresh, Ramakrishna, Rajendra Prasad and others in important roles." Targets: "Rajendra Prasad, Prakash Raj, Naresh, Ramakrishna, Vijay Shanthi and others in important roles in this film." Generated: "Vijay Shanthi, Prakash Raj, Naresh, Ramakrishna, Rajendra Prasad and others in important roles in this film."
+
+Sample No.: 170 Inputs: Rewrite the following sentence in another form: "BJP workers clashed with them and police intervened and evicted the protesters." Targets: "Police intervened and evicted the protesters and BJP workers clashed with them." Generated: "Police clashed with BJP workers and BJP workers clashed with them."
+
+Sample No.: 171 Inputs: Type the following sentence using different words: "These trains will halt at Mulund, Bhandup, Vikhroli, Ghatkopar, Kurla and Sion stations." Targets: "These trains will halt at Mulund, Bhandup, Vikhroli, Ghatkopar, Kurla and Sion stations." Generated: "These trains will halt at Mulund, Bhandup, Vikhroli, Kurla and Sion stations."
+
+Sample No.: 172 Inputs: Rewrite the following sentence differently: "After this incident, the police reached the spot and the injured were admitted to the hospital." Targets: "After this incident was reported, the police reached the spot and the injured were admitted to the hospital." Generated: "After this incident, the police reached the spot and the injured were admitted to the hospital."
+
+Sample No.: 173 Inputs: Rewrite the following sentence differently: "The Bharatiya Janata Party has issued a whip to all its MPs to be present in the House." Targets: "The Bharatiya Janata Party has issued a whip to all its MPs to be present in the House." Generated: "It has issued a whip to all its MPs to be present in the House."
+
+Sample No.: 174 Inputs: Type the following sentence using different words: "Petrol and diesel prices are increasing due to rising crude oil prices." Targets: "Petrol and diesel prices are increasing due to rising crude oil prices." Generated: "Petrol and diesel prices are increasing due to rising crude oil prices."
+
+Sample No.: 175 Inputs: Write the following sentence using different words: "Police have arrested both the accused after a police complaint was filed in the matter." Targets: "Police have arrested both the accused after a police complaint was filed in the matter." Generated: "Police have arrested both the accused in the matter."
+
+Sample No.: 176 Inputs: Rewrite the following sentence in another form: "Rajkot Police rushed to the spot after being informed of this incident." Targets: "Rajkot Police rushed to the spot after being informed of this incident." Generated: "Rajkot Police rushed to the spot after being informed of this incident."
+
+Sample No.: 177 Inputs: Rewrite the following sentence differently: "Panaji: Nowadays Goa Chief Minister Manohar Parrikar is worried because girls have started drinking." Targets: "Panaji: Nowadays girls have started drinking so Goa Chief Minister Manohar Parrikar is worried." Generated: "Nowadays Goa Chief Minister Manohar Parrikar is worried because girls have started drinking."
+
+Sample No.: 178 Inputs: Type the following sentence using different words: "Mahesh Babu plays an army officer in this romantic action drama film directed by Anil Ravipudi." Targets: "Mahesh Babu plays an army officer in this romantic action drama film directed by Anil Ravipudi." Generated: "Mahesh Babu plays an army officer in this romantic action drama film."
+
+Sample No.: 179 Inputs: Type the following sentence using different words: "Apart from Salman Khan, the film also stars Anil Kapoor, Bobby Deol, Saqib Saleem and Daisy Shah in pivotal roles." Targets: "Apart from Salman Khan, the film also features Bobby Deol, Anil Kapoor, Saqib Saleem and Daisy Shah in pivotal roles." Generated: "Apart from Salman Khan, Saqib Saleem, Saqib Saleem, Daisy Shah and Daisy Shah also feature in pivotal roles in the film."
+
+Sample No.: 180 Inputs: Rewrite the following sentence differently: "New Delhi: The government has announced the privatization of Air India." Targets: "New Delhi: The government has announced the privatization of Air India." Generated: "New Delhi: The privatization of Air India has been announced by the government of New Delhi."
+
+Sample No.: 181 Inputs: Rewrite the following sentence in another form: "Kuldeep Singh, a key witness in the Unnao gang-rape and murder case of Uttar Pradesh, has died under mysterious circumstances." Targets: "Kuldeep Singh, a key witness in the Unnao gang-rape and murder case of Uttar Pradesh, has died under mysterious circumstances." Generated: "Kuldeep Singh, a key witness in the Unnao gang-rape and murder case of Uttar Pradesh, has died under mysterious circumstances."
+
+Sample No.: 182 Inputs: Rewrite the following sentence in another form: "Islam is not just a religious religion, it is a complete way of life." Targets: "Islam is a complete way of life, it is not just a religious religion." Generated: "It is a complete way of life, it is a complete way of life."
+
+Sample No.: 183 Inputs: Rewrite the following sentence differently: "New Delhi, February 1: Finance Minister Nirmala Sitharaman presented the Union Budget for the financial year 2021-22 today." Targets: "New Delhi, February 1: The Union Budget for the financial year 2021-22 was presented today by Finance Minister Nirmala Sitharaman." Generated: "New Delhi, Finance Minister Nirmala Sitharaman presented the Union Budget for the financial year - 2021-22."
+
+Sample No.: 184 Inputs: Rewrite the following sentence differently: "Police have registered a case based on the complaint and are investigating." Targets: "Police have registered a case based on the complaint and are investigating." Generated: "Police have registered a case based on the complaint and are investigating."
+
+Sample No.: 185 Inputs: Rewrite the following sentence differently: "The hotel provides free parking and free internet for its guests." Targets: "The hotel provides free parking and free internet for its guests." Generated: "Provides free parking and free internet for its guests."
+
+Sample No.: 186 Inputs: Rewrite the following sentence in another format: "New Delhi: Prime Minister Narendra Modi is on a two-day visit to Maldives." Targets: "New Delhi: Prime Minister Narendra Modi is on a two-day visit to Maldives." Generated: "New Delhi: Maldives is on a two-day visit."
+
+Sample No.: 187 Inputs: Type the following sentence using different words: "His son Abhishek Bachchan, daughter-in-law Aishwarya Rai Bachchan and granddaughter Aaradhya were also infected with coronavirus." Targets: "The coronavirus infection was also found in his son Abhishek Bachchan, daughter-in-law Aishwarya Rai Bachchan and granddaughter Aaradhya." Generated: "His son Abhishek Bachchan, daughter-in-law Aishwarya Rai Bachchan and granddaughter Aaradhya were also infected."
+
+Sample No.: 188 Inputs: Rewrite the following sentence in another form: "Congress leader Rahul Gandhi claimed there was corruption in the Rafale fighter jet deal." Targets: "Congress leader Rahul Gandhi claimed there was corruption in the Rafale fighter jet deal." Generated: "Congress leader Rahul Gandhi claimed there was corruption in the Rafale fighter jet deal."
+
+Sample No.: 189 Inputs: Rewrite the following sentence differently: "Koratala Siva is directing this film and Konidela Productions and Matinee Entertainment are jointly producing it." Targets: "This film is being directed by Koratala Siva and jointly produced by Matinee Entertainment and Konidela Productions." Generated: "Konidela Productions and Matinee Entertainment are jointly producing it."
+
+Sample No.: 190 Inputs: Rewrite the following sentence in another form: "The film stars Simi Chahal, Gippy Grewal, Gurpreet Ghuggi, and Karamjit Anmol." Targets: "The film stars Simi Chahal, Karamjit Anmol, Gurpreet Ghuggi, and Gippy Grewal." Generated: "Simi Chahal, Gippy Grewal, Gurpreet Ghuggi, and Karamjit are playing the lead roles in this film."
+
+Sample No.: 191 Inputs: Rewrite the following sentence to another form: "This decision has been made with the safety and health of the students in mind." Targets: "This decision has been made with the health and safety of the students in mind." Generated: "This decision has been made with the safety and health of the students in mind."
+
+Sample No.: 192 Inputs: Type the following sentence using different words: "US President Donald Trump has said he is willing to talk to North Korea's Kim Jong-un." Targets: "US President Donald Trump has said he is willing to talk to North Korea's Kim Jong-un." Generated: "Ready to talk to North Korea's Kim Jong-un."
+
+Sample No.: 193 Inputs: Rewrite the following sentence in another format: "At the age of 22, Pant has already played 13 Tests, 15 ODIs and 28 T20Is for the Indian cricket team." Targets: "Pant has already played 13 Tests, 15 ODIs and 28 T20Is for the Indian cricket team at the age of 22." Generated: "Played 13 Tests, 14 ODIs and 28 T20Is for the Indian cricket team."
+
+Sample No.: 194 Inputs: Rewrite the following sentence differently: "However, the parents have not yet filed a complaint with the police station." Targets: "However, the parents have not yet filed a complaint with the police station." Generated: "However, the parents have not yet filed a complaint with the police station."
+
+Sample No.: 195 Inputs: Type the following sentence using different words: "There is a political fight between Panneerselvam and Sasikala for the post of Chief Minister." Targets: "There is a political fight between Panneerselvam and Sasikala for the post of Chief Minister." Generated: "There is a political fight between Panneerselvam and Sasikala."
+
+Sample No.: 196 Inputs: Rewrite the following sentence differently: "President Ram Nath Kovind administered the oath of office and secrecy to him." Targets: "He was administered the oath of office and secrecy by President Ram Nath Kovind." Generated: "President Ram Nath Kovind administered the oath of office and secrecy."
+
+Sample No.: 197 Inputs: Rewrite the following sentence differently: "Dileep went to court after the Magistrate Court and the High Court rejected his petition seeking visuals." Targets: "Dileep went to court after the Magistrate Court and the High Court rejected his petition seeking visuals." Generated: "Dileep to court after the High Court rejected his petition seeking visuals and the High Court rejected his petition seeking visuals."
+
+Sample No.: 198 Inputs: Rewrite the following sentence in another form: "Along with Raja, his former personal secretary RK Chandolia and former telecom secretary Siddharth Behura have also been arrested." Targets: "Along with Raja, former telecom secretary Siddharth Behura and his former personal secretary RK Chandolia have also been arrested." Generated: "His former personal secretary RK Chandolia and former telecom secretary Siddharth Behura have also been arrested."
+
+Sample No.: 199 Inputs: Rewrite the following sentence in another form: "This meeting was also attended by former Prime Minister Manmohan Singh and former Congress President Rahul Gandhi." Targets: "Former Prime Minister Manmohan Singh and former Congress President Rahul Gandhi also attended this meeting." Generated: "Former Prime Minister Manmohan Singh and former Congress President Rahul Gandhi also attended this meeting."
